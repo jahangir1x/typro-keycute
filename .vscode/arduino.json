@@ -1,0 +1,7 @@
+{
+    "configuration": "cpu=atmega328old",
+    "board": "arduino:avr:nano",
+    "programmer": "avrisp",
+    "sketch": "switch_core/switch_core.ino",
+    "port": "/dev/ttyUSB0"
+}
